@@ -1,0 +1,44 @@
+h1{
+	color:purple;font-size:60px;text-align:center;background-color:blue;
+	font-family: Tahoma;
+}
+.container{
+
+	width: 60px
+	margin: auto;
+	overflow: scroll;
+}
+#main-header{
+
+	background-color: white;
+	color: #434;
+	
+	font-size: 40px;
+}
+body{
+	background: ;
+	background-image: url(IMG_20180629_191503.jpg)
+
+
+	color: ;
+}
+h1
+{
+font-family: arial;
+font-size: 60px
+}
+img
+{ margin: 40px; }
+img{float: left;}
+a {text-align: center;
+color: white;}
+p{font-size: 40px;
+font-family: arial;
+margin-top: 50px;
+text-align: center;}
+h2{text-align: center; font-size: 40px
+   }
+p{
+	text-align: left;font-size: 40px
+}
+
